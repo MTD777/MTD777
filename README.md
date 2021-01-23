@@ -1,10 +1,11 @@
 ### Hey there, I'm Miguelangel 👋
 
 
-## I'm a IT Pro, Student, full time geek! :computer: :green_book: :video_game:
+## I'm a Full time IT Pro, Student, geek! :computer: :green_book: :video_game:
+### I'm currently working in the field as an IT Specialist 
 
-- 🌱 I’m currently learning Cloud Technologies AWS, Azure :cloud: Powershell and Bash cripting :memo: Python :snake:
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning Cloud Technologies Administration, Infrastructure and Security in AWS, Azure :cloud: Powershell and Bash cripting :memo: Python :snake:
+- 👯 I’m looking to collaborate with other IT professionals in the Networking and Security Industry
 - 🥅 2021 Goals: Obtain AZ-104, AWS Solutions Architect, automate everything!
 
 ### Connect with me:
