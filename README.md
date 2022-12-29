@@ -4,7 +4,7 @@
 ## I'm a Full time IT Pro, Student, geek! :computer: :green_book: :video_game:
 ### I'm currently working in the field as an Network Administrator 
 
-- 🌱 I’m currently learning Cloud Technologies Administration, Infrastructure and Security in AWS, Azure :cloud: Powershell and Bash cripting :memo: Python :snake:
+- 🌱 I’m currently learning Cloud Technologies Administration, Infrastructure and Security in AWS, Azure :cloud: Powershell and Bash scripting :memo: Python :snake:
 - 👯 I’m looking to collaborate with other IT professionals in the Networking and Security Industry
 - 🥅 2022 Goals: Obtain AZ-104, AWS SysOps, automate everything!
 
