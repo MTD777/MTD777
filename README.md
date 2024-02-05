@@ -1,12 +1,12 @@
-### Hey there, I'm Miguelangel 👋
+### Hey there, I'm Miguelangel (Miguel) 👋
 
 
-## I'm a Full-time IT Pro, Student, and geek! :computer: :green_book: :video_game:
-### I'm currently working in the field as a Network Administrator 
+## I'm a Full-time IT Pro, Student, and games geek! :computer: :green_book: :video_game:
+### I'm currently working in the field as a Network Engineer with a focus in Azure networking and Cloud engineering 
 
-- 🌱 I’m currently learning Cloud Technologies Administration, Infrastructure, and Security in AWS, Azure :cloud: Powershell and Bash scripting :memo: Python :snake:
+- 🌱 I’m currently learning Cloud Technologies, Engineering, Infrastructure, and Security in AWS, Azure :cloud: Powershell and Bash scripting :memo: Python :snake:
 - 👯 I’m looking to collaborate with other IT professionals in the Networking and Security Industry
-- 🥅 2023 Goals: Obtain AZ-700, automate everything!
+- 🥅 2024 Goals: Obtain AZ-305, CCNP, automate everything!
 
 ### Connect with me:
 
