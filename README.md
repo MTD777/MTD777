@@ -1,8 +1,8 @@
 ### Hey there, I'm Miguelangel (Miguel) 👋
 
 
-## I'm a Full-time IT Pro, Student, and games geek! :computer: :green_book: :video_game:
-### I'm currently working in the field as a Network Engineer with a focus in Azure networking and Cloud engineering 
+## I'm a Full-time IT Pro, Student of life, and games geek! :computer: :green_book: :video_game:
+### I'm currently working in the field as a Network Engineer with a focus on Azure networking and Cloud engineering 
 
 - 🌱 I’m currently learning Cloud Technologies, Engineering, Infrastructure, and Security in AWS, Azure :cloud: Powershell and Bash scripting :memo: Python :snake:
 - 👯 I’m looking to collaborate with other IT professionals in the Networking and Security Industry
